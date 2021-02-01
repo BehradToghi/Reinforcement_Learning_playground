@@ -1,0 +1,1 @@
+{"episodes": 400, "iterationNum": 201, "learingRate": 0.001, "gamma": 0.99, "epsilon": 1, "epsilon_min": 0.01, "epsilon_decay_type": "fix", "epsilon_decay": 0.05, "gpu": false, "average_range": 100, "pytorch": false}

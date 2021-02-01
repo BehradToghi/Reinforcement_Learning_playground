@@ -1,0 +1,1 @@
+{"episodes": 5000, "epsilon": 0.9, "resolution": [20, 20], "alpha": 0.9, "alpha_decay": 1, "decay_steps": 3, "gamma": 0.9, "scenario": "exponential_alpha_decay"}

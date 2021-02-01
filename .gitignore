@@ -1,0 +1,6 @@
+.idea
+*.mp4
+*.pyc
+**.pyc
+**.__pycache__
+**/__pycache__
