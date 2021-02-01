@@ -1,4 +1,4 @@
-# RL_playground
+# Reinforcement Learning playground
 ## Some educational reinforcement learning mini projects
 
 ## 1- MountainCar-v0
